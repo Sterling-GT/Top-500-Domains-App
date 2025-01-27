@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="domain_txt">Domain:</string>
+    <string name="pages_txt">Number of Pages:</string>
+    <string name="urls_txt">Number of Urls:</string>
+    <string name="percent_pages_txt">Percentage of total pages:</string>
+    <string name="percent_urls_txt">Percentage of total urls:</string>
+    <string name="rank">Rank:</string>
+    <string name ="tempsite">blogspot.com</string>
+    <string name="hosts">Number of Hosts:</string>
+    <string name="finish">Finish Activity</string>
+    <string name="pre_coroutine">Before Coroutine text</string>
+    <string name="Push">Push to Database</string>
+    <string name="details">Go to Details Activity </string>
+    <string name = "What_it_does">My App: What it does</string>
+    <string name = "Sterling">By: Sterling Gault</string>
+    <string name = "Explanation1">This app gives you the list of the top 500</string>
+    <string name = "Explanation2">biggest websites by number of pages.</string>
+    <string name = "Explanation3">You can also view the details of each website.</string>
+    <string name = "Explanation4">I provided a ranking function so you know where they stand.</string>
+    <string name = "Explanation5">Empty the search bar and press search to see the whole list again.</string>
+    <string name = "onesixthree">Great news, 163.com made the cut at an astonishing 74th place!</string>
+    <string name = "searchbar">Insert search here</string>
+    <string name = "searchbutton">Search</string>
+    <string name = "generate">Generate Random String</string>
+</resources>

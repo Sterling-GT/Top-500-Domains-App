@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "114549536155",
+    "project_id": "sg-info5126-project",
+    "storage_bucket": "sg-info5126-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114549536155:android:af84c7af3e22d1bc4a1d3e",
+        "android_client_info": {
+          "package_name": "com.sgault.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYqi3QQs5Xq2Xu3iOf6XgRVi-YhpQBWBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
